@@ -1,9 +1,2 @@
-# This is the code templates for the 'Crab Pulsar' telescope experiment.
-
-In combination with the lab script these code templates will guide you thorough the data analysis for the crab puslar experiment.
-
-To run the notebooks you will need a python3 environment with some common libraries
- * numpy
- * scipy
- * matplotlib
- * astropy
+# Crab Pulsar Lab Files
+This repo contains all files used in 2025 Sep - Dec Crab Pulsar lab experiment. The report will be added in due course but in the meantime the results can be seen on [the interview presentation here](https://github.com/SaraWavde10/CrabPulsarLab/blob/main/Interview%20Presentation.pptx). 
